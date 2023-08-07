@@ -1,4 +1,4 @@
-{
+  {
   "dependencies": {
     "@fastify/routes": "^5.1.0",
     "ajv": "^8.12.0",
