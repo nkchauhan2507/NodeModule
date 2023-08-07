@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@fastify/routes": "^5.1.0",
+    "all": "^0.0.0",
+    "config": "^3.3.9",
+    "fastify-autoload": "^3.13.0",
+    "fastify-caching": "^6.3.0",
+    "fastify-compress": "^4.1.0",
+    "fastify-cors": "^6.1.0",
+    "fastify-file-upload": "^4.0.0",
+    "fastify-jwt": "^4.2.0",
+    "fastify-multipart": "^5.4.0",
+    "fastify-server-timeout": "^0.1.1",
+    "fastify-static": "^4.7.0",
+    "fastify-swagger": "^5.2.0",
+    "fs": "^0.0.1-security",
+    "g": "^2.0.1",
+    "npm-install-all": "^1.1.21",
+    "path": "^0.12.7",
+    "util": "^0.12.5"
+  }
+}
