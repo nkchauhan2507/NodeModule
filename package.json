@@ -35,6 +35,7 @@
     "sqlite3": "^5.1.6",
     "swagger-jsdoc": "^6.2.8",
     "underscore": "^1.13.6",
+    "update-notifier": "^6.0.2",
     "util": "^0.12.5",
     "websocket": "^1.0.34",
     "winston": "^3.10.0",
