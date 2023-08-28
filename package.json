@@ -22,6 +22,7 @@
     "fastify-server-timeout": "^0.1.1",
     "fastify-static": "^4.7.0",
     "fastify-swagger": "^5.2.0",
+    "fastify-swagger-ui": "^1.0.1",
     "fs": "^0.0.1-security",
     "g": "^2.0.1",
     "helmet": "^7.0.0",
